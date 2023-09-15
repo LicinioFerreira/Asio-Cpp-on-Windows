@@ -1,4 +1,4 @@
-# Asio-on-Windows
+# Asio C++  library on Windows
 
 This repository shares some files on how to compile the Asio C++ library on Windows, primarily focusing on CMakeLists.txt.
 
